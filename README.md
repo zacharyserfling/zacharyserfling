@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Truck Track](https://github.com/douglaskline/trucktrackrepo)
 
-- 🌱 I’m currently learning **Bootstrap, Razor, and how to us VSCode.**
+- 🌱 I’m currently learning **Bootstrap, Razor, and how to use VSCode.**
 
 - 📫 Reach me at **zjs1979@uncw.edu**
 
