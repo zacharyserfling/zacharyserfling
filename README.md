@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zachary Serfling</h1>
 <h3 align="center">I am currently studying CIT at UNCW, set to graduate in the fall of 2022.</h3>
 
+![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/zacharyserfling?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
+)
+
+
 - 🔭 I’m currently working on [Truck Track](https://github.com/douglaskline/trucktrackrepo)
 
 - 🌱 I’m currently learning **Bootstrap, Razor, and how to use VSCode.**
