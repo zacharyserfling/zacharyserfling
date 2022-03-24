@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, Razor, and how to us VSCode.**
 
-- 📫 How to reach me **zjs1979@uncw.edu**
+- 📫 Reach me at **zjs1979@uncw.edu**
 
 - ⚡ Fun fact **I have a cat named Daphne!**
 
