@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I have a cat named Daphne!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:(https://www.linkedin.com/in/zacharyserfling/)</h3>
 <p align="left">
 </p>
 
