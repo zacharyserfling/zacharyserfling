@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zachary Serfling</h1>
 <h3 align="center">I am currently studying CIT at UNCW, set to graduate in the fall of 2022.</h3>
 
-![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/zacharyserfling?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
+![avatar](https://avatars.githubusercontent.com/u/97554924?s=400&u=f07685b0bc5c2380b156624e24f2b61be9fa6430&v=4
 )
 
 
