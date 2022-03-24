@@ -2,7 +2,7 @@
 <h3 align="center">I am currently studying CIT at UNCW, set to graduate in the fall of 2022.</h3>
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/97554924/159960265-f22a9d09-9218-4b0e-9dcd-a21d5812d535.jpg">
+  <img src="https://user-images.githubusercontent.com/97554924/159960265-f22a9d09-9218-4b0e-9dcd-a21d5812d535.jpg">
 </p>
 
 - 🔭 I’m currently working on [Truck Track](https://github.com/douglaskline/trucktrackrepo)
